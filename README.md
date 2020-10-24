@@ -3,6 +3,7 @@ This is a simple flutter application that allows us to write to/read from Fireba
 <br>
 <h2> Screenshot -</h2><br>
 <div>
+<img src="Screenshot1.png" width=250, height=512, style="display:inline-block;">
 <img src="Screenshot.png" width=250, height=512, style="display:inline-block;">
 </div>
 <b>Things I learned</b><br>
